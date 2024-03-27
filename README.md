@@ -1,4 +1,4 @@
-# CodeAlpha_Age_Calculator
+# Age Calculator
 
 <a name="readme-top"></a>
 
@@ -23,13 +23,11 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 
@@ -72,7 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://wilhelmk109.github.io/CodeAlpha_Age_Calculator/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,11 +109,6 @@ To run the project, open index.html in any web browser.
 To run tests, open index.html in any web browser.
 
 
-### Deployment
-
-You can deploy this project using: Project not yet complete
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
@@ -131,7 +124,7 @@ You can deploy this project using: Project not yet complete
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [Responsiveness] **[Responsiveness]**
+- [Animations] **[Animations and Transitions]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -156,19 +149,6 @@ If you like this project please give a ⭐️!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Code Alpha for giving me this opportunity.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## ❓ FAQ <a name="faq"></a>
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
